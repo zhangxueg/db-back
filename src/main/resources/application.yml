@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: mall-tiny
+    name: neuqsoft
   profiles:
     active: dev
 
